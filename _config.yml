@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://d3kod.github.io
+title: Primal Pond
+email: akodzhabashev@gmail.com
+author: Aleksandar Kodzhabashev
+description: Brewing information
+paginate: 3
+google_analytics: 
